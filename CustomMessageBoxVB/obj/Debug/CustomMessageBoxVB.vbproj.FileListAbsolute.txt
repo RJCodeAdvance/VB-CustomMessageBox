@@ -1,0 +1,13 @@
+D:\RJ Code Advance\Source Code VB\2022\CustomMessageBoxVB\CustomMessageBoxVB\bin\Debug\CustomMessageBoxVB.exe.config
+D:\RJ Code Advance\Source Code VB\2022\CustomMessageBoxVB\CustomMessageBoxVB\bin\Debug\CustomMessageBoxVB.exe
+D:\RJ Code Advance\Source Code VB\2022\CustomMessageBoxVB\CustomMessageBoxVB\bin\Debug\CustomMessageBoxVB.pdb
+D:\RJ Code Advance\Source Code VB\2022\CustomMessageBoxVB\CustomMessageBoxVB\bin\Debug\CustomMessageBoxVB.xml
+D:\RJ Code Advance\Source Code VB\2022\CustomMessageBoxVB\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.vbproj.AssemblyReference.cache
+D:\RJ Code Advance\Source Code VB\2022\CustomMessageBoxVB\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.FormMessageBox.resources
+D:\RJ Code Advance\Source Code VB\2022\CustomMessageBoxVB\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.Resources.resources
+D:\RJ Code Advance\Source Code VB\2022\CustomMessageBoxVB\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.Form1.resources
+D:\RJ Code Advance\Source Code VB\2022\CustomMessageBoxVB\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.vbproj.GenerateResource.cache
+D:\RJ Code Advance\Source Code VB\2022\CustomMessageBoxVB\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.vbproj.CoreCompileInputs.cache
+D:\RJ Code Advance\Source Code VB\2022\CustomMessageBoxVB\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.exe
+D:\RJ Code Advance\Source Code VB\2022\CustomMessageBoxVB\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.xml
+D:\RJ Code Advance\Source Code VB\2022\CustomMessageBoxVB\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.pdb

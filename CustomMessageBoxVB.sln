@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomMessageBoxVB", "CustomMessageBoxVB\CustomMessageBoxVB.vbproj", "{8C4260AC-EC4A-4747-8BE6-10571746C431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C4260AC-EC4A-4747-8BE6-10571746C431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4260AC-EC4A-4747-8BE6-10571746C431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4260AC-EC4A-4747-8BE6-10571746C431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4260AC-EC4A-4747-8BE6-10571746C431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39758B4C-26EF-497F-89CF-AD0FA86F0A35}
+	EndGlobalSection
+EndGlobal
